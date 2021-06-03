@@ -1,0 +1,5 @@
+D:\arqui_soft\labo 6\InternetTicketSystem\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+D:\arqui_soft\labo 6\InternetTicketSystem\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\arqui_soft\labo 6\InternetTicketSystem\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\arqui_soft\labo 6\InternetTicketSystem\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\arqui_soft\labo 6\InternetTicketSystem\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
